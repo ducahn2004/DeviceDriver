@@ -1,0 +1,2 @@
+/home/edoph/Lab1/Ex4/hello_array.o
+

@@ -1,0 +1,2 @@
+/home/edoph/Lab1/Ex3/hello_param.o
+

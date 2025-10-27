@@ -1,0 +1,10 @@
+total 748424
+drwxr-xr-x 10 edoph edoph       4096 Sep 29 03:46 Lab1
+drwxr-xr-x 26 edoph edoph       4096 Sep 15 05:01 linux-5.15.163
+-rw-r--r--  1 edoph edoph       1185 Sep 15 04:33 release.config
+-rw-r--r--  1 edoph edoph 4294967296 Sep 29 03:46 rootfs.img
+2
+2
+5
+0
+26

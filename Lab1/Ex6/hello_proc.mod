@@ -1,0 +1,2 @@
+/home/edoph/Lab1/Ex6/hello_proc.o
+

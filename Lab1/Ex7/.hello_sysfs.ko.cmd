@@ -1,0 +1,1 @@
+cmd_/home/edoph/Lab1/Ex7/hello_sysfs.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/edoph/Lab1/Ex7/hello_sysfs.ko /home/edoph/Lab1/Ex7/hello_sysfs.o /home/edoph/Lab1/Ex7/hello_sysfs.mod.o;  true

@@ -1,0 +1,2 @@
+/home/edoph/Lab1/Ex1/hello.o
+

@@ -1,0 +1,1 @@
+cmd_/home/edoph/Lab1/Ex4/hello_array.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/edoph/Lab1/Ex4/hello_array.ko /home/edoph/Lab1/Ex4/hello_array.o /home/edoph/Lab1/Ex4/hello_array.mod.o;  true
