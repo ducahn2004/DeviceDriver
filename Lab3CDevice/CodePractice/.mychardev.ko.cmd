@@ -1,0 +1,1 @@
+cmd_/home/edoph/Code/Lab3CDevice/CodePractice/mychardev.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/edoph/Code/Lab3CDevice/CodePractice/mychardev.ko /home/edoph/Code/Lab3CDevice/CodePractice/mychardev.o /home/edoph/Code/Lab3CDevice/CodePractice/mychardev.mod.o;  true

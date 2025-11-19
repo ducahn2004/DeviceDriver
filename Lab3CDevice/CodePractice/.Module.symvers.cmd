@@ -1,0 +1,1 @@
+cmd_/home/edoph/Code/Lab3CDevice/CodePractice/Module.symvers := sed 's/\.ko$$/\.o/' /home/edoph/Code/Lab3CDevice/CodePractice/modules.order | scripts/mod/modpost    -o /home/edoph/Code/Lab3CDevice/CodePractice/Module.symvers -e -i Module.symvers   -T -

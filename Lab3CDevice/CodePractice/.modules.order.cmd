@@ -1,0 +1,1 @@
+cmd_/home/edoph/Code/Lab3CDevice/CodePractice/modules.order := {   echo /home/edoph/Code/Lab3CDevice/CodePractice/mychardev.ko; :; } | awk '!x[$$0]++' - > /home/edoph/Code/Lab3CDevice/CodePractice/modules.order
